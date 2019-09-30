@@ -3,5 +3,5 @@
 const test1 = require('..');
 
 describe('test1', () => {
-    it('needs tests asd as');
+    it('needs tests asd as asdas');
 });
