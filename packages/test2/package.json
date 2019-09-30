@@ -1,6 +1,6 @@
 {
   "name": "joaclelernatest2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "joacle <joaquinfs@hotmail.com>",
   "homepage": "",
@@ -11,7 +11,7 @@
     "test": "__tests__"
   },
   "dependencies": {
-    "joaclelernatest1": "1.0.2"
+    "joaclelernatest1": "^1.0.3"
   },
   "files": [
     "lib"
