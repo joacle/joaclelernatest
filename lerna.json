@@ -8,7 +8,7 @@
       "ignoreChanges": [
         "ignored-file",
         "*.md",
-        "**/__test__/**"
+        "*/__tests__/*"
       ]
     }
   }
