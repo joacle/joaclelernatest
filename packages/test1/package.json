@@ -1,0 +1,19 @@
+{
+  "name": "joaclelernatest1",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "joacle <joaquinfs@hotmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/test1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
