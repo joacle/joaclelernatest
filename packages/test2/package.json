@@ -1,6 +1,6 @@
 {
   "name": "@beezyinc/lernatest2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "joacle <joaquinfs@hotmail.com>",
   "homepage": "",
@@ -11,7 +11,7 @@
     "test": "__tests__"
   },
   "dependencies": {
-    "@beezyinc/lernatest1": "1.0.2-alpha.0"
+    "@beezyinc/lernatest1": "^1.0.3"
   },
   "files": [
     "lib"
