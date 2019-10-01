@@ -5,6 +5,7 @@
   "author": "joacle <joaquinfs@hotmail.com>",
   "homepage": "",
   "license": "ISC",
+  "private": true,
   "main": "lib/test2.js",
   "directories": {
     "lib": "lib",
