@@ -11,7 +11,7 @@
     "test": "__tests__"
   },
   "dependencies": {
-    "joaclelernatest1": "^6.0.0"
+    "joaclelernatest1": "file:../test1/lib"
   },
   "files": [
     "lib"
